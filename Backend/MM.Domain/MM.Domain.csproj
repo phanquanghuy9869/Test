@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AggregateModels\" />
+    <None Remove="AggregateModels\VehicleAggregate\" />
+    <None Remove="SeedWorks\" />
+    <None Remove="MediatR" />
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="AggregateModels\MaintainCatalogAggregate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SeedWorks\" />
+    <Folder Include="AggregateModels\MaintainCatalogAggregate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+</Project>

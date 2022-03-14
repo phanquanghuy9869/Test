@@ -1,0 +1,9 @@
+D:\Workspace\ManagementProject\mm-be\MM.Domain\bin\Debug\netstandard2.1\MM.Domain.deps.json
+D:\Workspace\ManagementProject\mm-be\MM.Domain\bin\Debug\netstandard2.1\MM.Domain.dll
+D:\Workspace\ManagementProject\mm-be\MM.Domain\bin\Debug\netstandard2.1\MM.Domain.pdb
+D:\Workspace\ManagementProject\mm-be\MM.Domain\obj\Debug\netstandard2.1\MM.Domain.csprojAssemblyReference.cache
+D:\Workspace\ManagementProject\mm-be\MM.Domain\obj\Debug\netstandard2.1\MM.Domain.AssemblyInfoInputs.cache
+D:\Workspace\ManagementProject\mm-be\MM.Domain\obj\Debug\netstandard2.1\MM.Domain.AssemblyInfo.cs
+D:\Workspace\ManagementProject\mm-be\MM.Domain\obj\Debug\netstandard2.1\MM.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\ManagementProject\mm-be\MM.Domain\obj\Debug\netstandard2.1\MM.Domain.dll
+D:\Workspace\ManagementProject\mm-be\MM.Domain\obj\Debug\netstandard2.1\MM.Domain.pdb
